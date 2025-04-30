@@ -1,0 +1,3 @@
+Logs for Random Forest model
+Parameters (nodes): 10264945
+Operations (node checks): 10264945

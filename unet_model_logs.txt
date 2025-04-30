@@ -1,0 +1,3 @@
+Logs for UNet model
+Parameters: 31044097
+Operations: 960
