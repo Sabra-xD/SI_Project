@@ -1,0 +1,2 @@
+UNet Parameters: 31044097
+UNet Operations: 605
